@@ -2,10 +2,10 @@
 
 
 <a href="" >
-<img src="https://img.shields.io/badge/Portfolio-F50057?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-F50057?style=flat-square&logo=notion&logoColor=white" width="100"/>
 </a>
 <a href="https://happindex.tistory.com/" >
-<img src="https://img.shields.io/badge/Blog-D62300?style=flat-square&logo=tistory&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blog-D62300?style=flat-square&logo=tistory&logoColor=white" width="73"/>
 </a>
 
 <br>
