@@ -1,14 +1,15 @@
 ## 👼 About me
 
 
-<a href="" >
+<div style="display:flex; flex-direction:row;">
+<a >
 <img src="https://img.shields.io/badge/Portfolio-F50057?style=flat-square&logo=notion&logoColor=white" width="100"/>
 </a>
 &nbsp;
 <a href="https://happindex.tistory.com/" >
 <img src="https://img.shields.io/badge/Blog-D62300?style=flat-square&logo=tistory&logoColor=white" width="73"/>
 </a>
-
+</div>
 <br>
 <br>
 
