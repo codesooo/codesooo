@@ -27,7 +27,7 @@
 
 ## 👩‍💻 Project
 
-||이름|특이사항|인원|기간|tools|
+||이름|특이사항|인원|기간|tools (제가 사용한 기술만을 기재합니다.)|
 |---|---|---|---|---|---|
 |1|**제주 걷기 경로 및 로컬 명소 안내 서비스, 제주걷GO** |한국 관광공사 X KAKAO 관광 데이터 활용 공모전| 7명| 2024.05 ~ 진행중|  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>|
 |2|[**Non-Filter 알고리즘을 사용한 도서 추천 서비스, BUBBLE POP**](https://github.com/codesooo/NonFilterBubble-Backend)|-|6명|2024.03 ~ 2024.08|<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Docker Hub-02A8EF?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>|
