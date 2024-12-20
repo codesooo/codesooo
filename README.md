@@ -1,6 +1,9 @@
-## 👼 About me
-백엔드 개발, DevOps 
+## 🤝 About Me
+Hi, I'm Jisoo.
+I aspire to be a Java-based backend developer and a DevOps expert. 
 
+
+I'm ready to explore any technology!
 
 ## 🔧 Skill
 
