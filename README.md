@@ -5,7 +5,7 @@ Hi, I'm Jisoo.
 I aspire to be a Java-based backend developer and a DevOps expert.
 
 
-Currently, I am most interested in Spring and AWS.
+Currently, I am most interested in Spring Boot and AWS.
 
 
 I'm ready to explore any technology!
