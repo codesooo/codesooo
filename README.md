@@ -1,14 +1,23 @@
-## 🤝 About Me
-Hi, I'm Jisoo.
+# 💁‍♀️ Jisoo Kim
+Hi, I'm Jisoo. I aspire to be a Java-based backend developer and a DevOps expert. Currently, I'm most interested in Spring Boot and AWS. I'm ready to explore any technology!
 
+## 📢 About me
+### 👩‍🎓 Education
+#### Kwangwoon University (Graduated)
+  - March 2020 - February 2024
+  - Bachelor of Data Science, Department of Information Convergence
 
-I aspire to be a Java-based backend developer and a DevOps expert.
+#### [K-Digital Training] Public Cloud-based DevSecOps Convergence Talent Training Program (Completed)
+  - June 2024 - December 2024
 
+#### AWS Training (Completed)
+  - October 2024
+  - AWS Technical Essentials / AWS Security Essentials / DevOps Engineering on AWS
 
-Currently, I'm most interested in Spring Boot and AWS.
-
-
-I'm ready to explore any technology!
+### 🪪 Certifications
+- 정보처리기사 - 한국산업인력공단 (2024.09.10)
+- SQLD - 한국데이터산업진흥원 (2024.12.13)
+- AWS Solutions Architect - Associate (2024.12.31)
 
 ## 🔧 Skill
 
@@ -28,13 +37,3 @@ I'm ready to explore any technology!
 
 #### DevOps
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> 
-
-## 👩‍💻 Project
-
-||이름|인원|기간|tools (제가 사용한 기술만을 기재합니다)|
-|---|---|---|---|---|
-|1|**제주 걷기 경로 및 로컬 명소 안내 서비스, 제주걷GO** |7| 2024.05 ~ 진행중|  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>|
-|2|[**Non-Filter 알고리즘을 사용한 도서 추천 서비스, BUBBLE POP**](https://github.com/codesooo/NonFilterBubble-Backend)|6|2024.03 ~ 2024.08|<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Docker Hub-02A8EF?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>|
-|3|**서울시 공공 스포츠 시설 종합 정보 시스템, SPORTS SPOT**|6|2024.09|<img src="https://img.shields.io/badge/JSP-494649?style=flat-square&logo=jsp&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML5-3366CC?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-F43059?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>|
-|4|[**헬스케어 이종 고객 데이터 수집 및 관리 시스템**](https://github.com/codesooo/deft-teamproject)|4|2022.08 ~ 2023.05| <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> |
-|5|[**디지털 문구 플랫폼 서비스, ABLE**](https://github.com/codesooo/web-design-teamproject)|3|2022.09 ~ 2022.12|<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML5-3366CC?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-F43059?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/EJS-F7DF1E?style=flat-square&logo=ejs&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> | |
