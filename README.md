@@ -17,7 +17,7 @@ Hi, I'm Jisoo. I aspire to be a Java-based backend developer and a DevOps expert
 ### 🪪 Certifications
 - 정보처리기사 - 한국산업인력공단 (2024.09.10)
 - SQLD - 한국데이터산업진흥원 (2024.12.13)
-- [AWS Solutions Architect - Associate](https://www.credly.com/earner/earned/badge/a53f5b45-8466-48b4-92fa-4bf24273c8f7) (2024.12.31)
+- [AWS Solutions Architect - Associate](https://github.com/codesooo/codesooo/blob/main/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf) (2024.12.31)
 
 ## 🔧 Skill
 
