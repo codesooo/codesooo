@@ -7,17 +7,17 @@ Hi, I'm Jisoo. I aspire to be a Java-based backend developer and a DevOps expert
   - March 2020 - February 2024
   - Bachelor of Data Science, Department of Information Convergence
 
-#### [K-Digital Training] Public Cloud-based DevSecOps Convergence Talent Training Program (Completed)
+#### [[K-Digital Training] Public Cloud-based DevSecOps Convergence Talent Training Program](https://github.com/codesooo/codesooo/blob/main/%EA%B9%80%EC%A7%80%EC%88%98_%EC%88%98%EB%A3%8C%EC%A6%9D.pdf) (Completed)
   - June 2024 - December 2024
 
-#### AWS Training (Completed)
+#### [AWS Training](https://github.com/codesooo/codesooo/blob/main/%EA%B9%80%EC%A7%80%EC%88%98_AWS_%EC%88%98%EB%A3%8C%EC%A6%9D.pdf) (Completed)
   - October 2024
   - AWS Technical Essentials / AWS Security Essentials / DevOps Engineering on AWS
 
 ### 🪪 Certifications
 - 정보처리기사 - 한국산업인력공단 (2024.09.10)
 - SQLD - 한국데이터산업진흥원 (2024.12.13)
-- AWS Solutions Architect - Associate (2024.12.31)
+- [AWS Solutions Architect - Associate](https://www.credly.com/earner/earned/badge/a53f5b45-8466-48b4-92fa-4bf24273c8f7) (2024.12.31)
 
 ## 🔧 Skill
 
